@@ -8,5 +8,6 @@ Marisma é um projeto de integração entre 2 mundos diferentes: Designer e Dese
 
 ## Um Produto:
   * Out-of-box com configuração-zero para Designers e Desenvolvedores colocarem em seus servidores.
+
 ## Um Serviço:
 * Designers e Desenvolvedores estarão livres para expandir o projeto de outro.
